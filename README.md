@@ -1,9 +1,27 @@
-- 👋 Hi, I’m @cb-dhiraj
+## 💫 About Me :
+Hey there 👋
+
+This is the place where I make and break things.
+
+- 👋 Hi, I’m @dhirajdkv
 - 👀 I’m interested in web tech and servers
 - 🌱 I’m currently learning Next.js, Github workflows, Terraform, Springboot, Micro-frontends
-- 💞️ I’m looking to collaborate on building something new
+- 💞️ I’m looking to collaborate on building something cool and open-source
 - 📫 How to reach me: dhiraj9566@gmail.com
-- Portfolio - https://dhirajdkv.github.io/
+
+### Various Links:
+
+🌐 [My Personal Page](https://dhirajdkv.github.io/) &nbsp; &nbsp; &nbsp;
+📎 [LinkedIn Profile](https://www.linkedin.com/in/dhirajkumard/) &nbsp; &nbsp; &nbsp;
+📄 [Technical Resume](https://dhirajdkv.github.io/static/media/CV.496f7623456d5a39a25f.pdf) &nbsp; &nbsp; &nbsp;
+✉️ [Email Address](mailto:dhiraj9566@gmail.com)
+
+### Education
+
+🎓 MS student at California State University, Chico | Fall 2025
+
+### 💻 Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 <!---
 cb-dhiraj/cb-dhiraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
