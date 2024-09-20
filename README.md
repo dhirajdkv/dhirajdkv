@@ -4,7 +4,7 @@ Hey there 👋
 This is the place where I make and break things.
 
 - 👋 Hi, I’m @dhirajdkv
-- 👀 I’m interested in web tech and servers
+- 👀 I’m interested in web tech, servers & startups
 - 🌱 I’m currently learning Next.js, Github workflows, Terraform, Springboot, Micro-frontends
 - 💞️ I’m looking to collaborate on building something cool and open-source
 - 📫 How to reach me: dhiraj9566@gmail.com
